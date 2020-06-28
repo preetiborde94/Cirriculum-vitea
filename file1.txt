@@ -2,7 +2,7 @@ Print Hello world
 My name is Preeti
 
 
-
+Added Education details
 
 
 
